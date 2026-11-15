@@ -27,10 +27,16 @@
 </p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sayeem3051&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sayeem3051&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayeem3051&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayeem3051&show_icons=true&theme=dark&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=Sayeem3051&theme=dark&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayeem3051&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 
 ### 🔝 Top Contributed Repo
