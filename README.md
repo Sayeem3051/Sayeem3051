@@ -27,15 +27,14 @@
 </p>
 
 
-# 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayeem3051&show_icons=true&theme=dark&hide_border=true" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=Sayeem3051&theme=dark&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayeem3051&layout=compact&theme=dark&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Sayeem3051&theme=dark&hide_border=true"
+    alt="Sayeem's GitHub Streak"
+  />
 </p>
 
 
